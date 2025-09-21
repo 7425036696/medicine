@@ -1,0 +1,5 @@
+{
+  "name": "Medicine Finder",
+  "description": "An application that allows users to find alternative medicines based on the same salts and dosages. Results are categorized by brand popularity and dosage variations.",
+  "requestFramePermissions": []
+}
